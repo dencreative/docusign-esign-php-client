@@ -20,7 +20,7 @@ In your `composer.json` add the following to the `repositories`:
 	"repositories": [
 		{
 			"type": "vcs",
-			"url": "https://github.com/dencreative/feature-toggle"
+			"url": "https://github.com/dencreative/docusign-esign-php-client"
 		}
 	]
 }
@@ -31,7 +31,7 @@ Then add the following to `require`:
 // composer.json
 {
 	"require": {
-        "dencreative/feature-toggle": "v1.0.*"
+        "dencreative/docusign-esign-php-client": "v6.8.0"
     }
 }
 ```
